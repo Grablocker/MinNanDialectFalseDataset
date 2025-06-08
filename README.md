@@ -1,0 +1,2 @@
+# MinNanDialectFalseDataset
+这是一份由TTS文本转语音模型生成的闽地、台湾地区方言音频数据集。
